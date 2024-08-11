@@ -1,0 +1,3 @@
+ To attain the afore mentioned aim of the project I will be building a neural network that will predict 3D human poses using 2D images. This with the help of transfer learning by using the VGG16 model architecture and modifying it accordingly for our current problem. By the end of this exercice we will have a deep learning (DL) model that does a really good job of predicting human poses.<br><br>
+ 
+ Creating necessary folders as required for the project files upload.
